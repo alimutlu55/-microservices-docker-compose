@@ -5,19 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="718c839a-e545-4d88-8a96-d772178b6c8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docker/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieServerClient/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/gateway/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/gateway/apigateway/ZuulLoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway/src/test/java/com/gateway/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker" beforeDir="false" afterPath="$PROJECT_DIR$/docker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieServer" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/src/main/java/com/microService/movieServer/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/src/main/java/com/microService/movieServer/MovieController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieServerClient/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/movieServerClient/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieServerClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieServerClient/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieServerClient/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieServerClient/src/test/java/com/microService/movieServerClient/MovieServerClientApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/movieServerClient/src/test/java/com/microService/movieServerClient/MovieServerClientApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serviceRegistirationServer" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRegistirationServer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serviceRegistirationServer/src/main/java/com/microservice/serviceRegistirationServer/ServiceRegistirationServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/java/com/microservice/serviceRegistirationServer/ServiceRegistirationServerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/.gitignore" beforeDir="false" />
@@ -51,7 +61,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/docker" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -61,12 +71,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1nYk7ZvOfP7csFltYCZnN4BsT61" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -82,19 +95,6 @@
       <recent name="$PROJECT_DIR$/docker" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -104,12 +104,16 @@
       <option name="presentableId" value="Default" />
       <updated>1611574245605</updated>
       <workItem from="1611574246784" duration="10000" />
-      <workItem from="1611691354391" duration="2252000" />
+      <workItem from="1611691354391" duration="3952000" />
+      <workItem from="1611862016648" duration="2449000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611691703570">
