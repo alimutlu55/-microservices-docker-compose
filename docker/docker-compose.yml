@@ -1,0 +1,42 @@
+version: '3'
+
+services:
+  registiration-server:
+    image: eureka-server:latest
+    build:
+      context: ../serviceRegistrationServer
+      dockerfile: ../serviceRegistrationServer/Dockerfile
+    volumes:
+      - /data/serviceRegistrationServer
+    ports:
+      - "8761:8761"
+
+  movie-server:
+    image: movie-server:latest
+    build:
+      context: ../movieServer
+      dockerfile: ../movieServer/Dockerfile
+    volumes:
+      - /data/movieServer
+    ports:
+      - "8081:8081"
+
+  client-server:
+    image: client-server:latest
+    build:
+      context: ../movieServerClient
+      dockerfile: ../movieServerClient/Dockerfile
+    volumes:
+      - /data/movieServerClient
+    ports:
+      - "9000:9000"
+
+  zuul-api-gateway:
+    image: zuul-api-gateway:latest
+    build:
+      context: ../api-gateway
+      dockerfile: ../api-gateway/Dockerfile
+    volumes:
+      - /data/api-gateway
+    ports:
+      - "8762:8762"

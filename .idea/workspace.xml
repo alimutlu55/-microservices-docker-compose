@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="718c839a-e545-4d88-8a96-d772178b6c8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceRegistirationServer" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRegistirationServer" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceRegistirationServer/src/main/java/com/microservice/serviceRegistirationServer/ServiceRegistirationServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/java/com/microservice/serviceRegistirationServer/ServiceRegistirationServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/.gradle/6.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project/.gradle/6.1.1/fileChanges/last-build.bin" beforeDir="false" />
@@ -41,7 +38,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/serviceRegistirationServer" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/docker" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -72,6 +69,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/movieServer/src/main/resources" />
       <recent name="$PROJECT_DIR$/docker" />
     </key>
   </component>
@@ -86,6 +84,7 @@
       <workItem from="1611574246784" duration="10000" />
       <workItem from="1611691354391" duration="3952000" />
       <workItem from="1611862016648" duration="5352000" />
+      <workItem from="1611870770663" duration="1548000" />
     </task>
     <servers />
   </component>
