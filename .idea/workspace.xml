@@ -7,7 +7,6 @@
     <list default="true" id="718c839a-e545-4d88-8a96-d772178b6c8c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/pom.xml" afterDir="false" />
@@ -48,7 +47,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/movieServer" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -92,7 +91,7 @@
       <updated>1611574245605</updated>
       <workItem from="1611574246784" duration="10000" />
       <workItem from="1611691354391" duration="3952000" />
-      <workItem from="1611862016648" duration="3881000" />
+      <workItem from="1611862016648" duration="4235000" />
     </task>
     <servers />
   </component>

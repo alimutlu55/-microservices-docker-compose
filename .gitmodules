@@ -1,0 +1,3 @@
+[submodule "movieServer"]
+	path = movieServer
+	url = https://github.com/alimutlu55/microservices-docker-compose.git
