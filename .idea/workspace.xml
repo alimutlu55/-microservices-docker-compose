@@ -5,28 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="718c839a-e545-4d88-8a96-d772178b6c8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api-gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/gateway/apigateway/ApiGatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/java/com/gateway/apigateway/ZuulLoggingFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-gateway/src/test/java/com/gateway/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker" beforeDir="false" afterPath="$PROJECT_DIR$/docker" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/src/main/java/com/microService/movieServer/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/src/main/java/com/microService/movieServer/MovieController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieServerClient/src/main/java/com/microService/movieServerClient/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/movieServerClient/src/main/java/com/microService/movieServerClient/models/Movie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serviceRegistirationServer" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRegistirationServer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serviceRegistirationServer/src/main/java/com/microservice/serviceRegistirationServer/ServiceRegistirationServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/java/com/microservice/serviceRegistirationServer/ServiceRegistirationServerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/application.properties" beforeDir="false" />
@@ -61,7 +48,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/docker" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -105,7 +92,7 @@
       <updated>1611574245605</updated>
       <workItem from="1611574246784" duration="10000" />
       <workItem from="1611691354391" duration="3952000" />
-      <workItem from="1611862016648" duration="2449000" />
+      <workItem from="1611862016648" duration="2824000" />
     </task>
     <servers />
   </component>
@@ -114,11 +101,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611691703570">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1611691703570" />
+    <state x="383" y="97" key="CommitChangelistDialog2" timestamp="1611867528493">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="383" y="97" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1611867528493" />
   </component>
 </project>
