@@ -7,10 +7,12 @@
     <list default="true" id="718c839a-e545-4d88-8a96-d772178b6c8c" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/application.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/src/main/java/com/microService/movieServer/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/src/main/java/com/microService/movieServer/MovieController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieServer/src/main/java/com/microService/movieServer/models/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/src/main/java/com/microService/movieServer/models/Movie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieServer/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/movieServer/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serviceRegistirationServer" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRegistirationServer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/serviceRegistirationServer/src/main/java/com/microservice/serviceRegistirationServer/ServiceRegistirationServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/serviceRegistirationServer/src/main/java/com/microservice/serviceRegistirationServer/ServiceRegistirationServerApplication.java" afterDir="false" />
@@ -46,7 +48,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/docker" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/movieServer" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -90,7 +92,7 @@
       <updated>1611574245605</updated>
       <workItem from="1611574246784" duration="10000" />
       <workItem from="1611691354391" duration="3952000" />
-      <workItem from="1611862016648" duration="3134000" />
+      <workItem from="1611862016648" duration="3881000" />
     </task>
     <servers />
   </component>
