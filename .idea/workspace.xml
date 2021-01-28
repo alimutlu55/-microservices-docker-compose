@@ -46,7 +46,7 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/movieServer" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/docker" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -90,7 +90,7 @@
       <updated>1611574245605</updated>
       <workItem from="1611574246784" duration="10000" />
       <workItem from="1611691354391" duration="3952000" />
-      <workItem from="1611862016648" duration="2856000" />
+      <workItem from="1611862016648" duration="3134000" />
     </task>
     <servers />
   </component>
