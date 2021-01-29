@@ -1,4 +1,4 @@
-package com.server.movieServer.models;
+package com.server.movieServer;
 
 public class Movie {
 
